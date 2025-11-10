@@ -4,7 +4,7 @@
 
 -General SDR support (coming soon)
 
-#TODO add supported arm amd64 i386 etc to each name. note nmcli works on ARM architecture.
+#TODO add supported arm amd64 i386 etc to each name. note nmcli works on ARM architecture. refer too: https://www.kismetwireless.net/packages/
 
 # Important Notes For Use:
 
